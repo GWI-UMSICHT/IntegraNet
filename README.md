@@ -1,4 +1,4 @@
-### Basic Informations
+### IntegraNet 
 
 Licensed by Fraunhofer UMSICHT and GWI Essen e.V. under Modelica License 2.     
 Copyright 2021, Fraunhofer UMSICHT and GWI Essen e.V.                           
