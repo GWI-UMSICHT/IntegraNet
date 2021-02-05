@@ -23,14 +23,14 @@ ___
 ### Project
 
 **Dependencies:**
-Die Integranet-Bibliothek verwendet Komponenten folgender Bibliotheken:
+The Integranet library uses components from the following Modelica libraries:
 * TransiEnt 1.0.0
 * ClaRa 1.2.1
 * TILMedia
 
-**Entwicklungsumgebung:** Dymola
+**Development environment:** Dymola
 
-**Programmiersprache:** Modelica
+**Programming language:** Modelica
 
 **Installation:**
 Many models of the IntegraNet library build on models from the TransiEnt Library and will not work without simultaneously loading the TransiEnt library. You can download it under https://www.tuhh.de/transient-ee/
