@@ -1,0 +1,4 @@
+Warum:
+1. Real_to_Ideal gas; chp model nicht direkt an Gasleitungen anschlieﬂbar
+2. groﬂe chp keine Gasnetzanschluss
+3.

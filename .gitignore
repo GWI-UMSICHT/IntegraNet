@@ -1,0 +1,17 @@
+*.mat
+dymosim.lib
+dymosim.exe
+dymosim.exp
+dsmodel.c
+dslog.txt
+dsin.txt
+dsfinal.txt
+buildlog.txt
+*.bak-mo
+*.mof
+data/Household_Measurements/Loadprofiles_TUBerlin_scaled.csv
+data/Household_Measurements/Loadprofiles_TUBerlin_scaled_SLP.csv
+results/*.c
+results/*.obj
+results/request
+results/stop

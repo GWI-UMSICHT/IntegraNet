@@ -1,0 +1,8 @@
+Base
+ControlStaticHeatPump_heatDriven
+ControlModulatingHeatPump_heat_driven
+ControlStaticHeatPump_priceoriented
+ControlModulatingHeatPump_priceoriented
+ControlStaticHeatPump_PV_oriented
+ControlStaticHeatPump_PV_heatDriven
+SummerWinterSwitch
