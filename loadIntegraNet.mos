@@ -1,4 +1,0 @@
-
-// Load IntegraNet Library
-openModel("..\source\IntegraNet\package.mo", changeDirectory=false);
-
