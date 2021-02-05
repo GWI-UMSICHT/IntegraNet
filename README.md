@@ -1,29 +1,23 @@
 ### Basic Informations
 
-// Licensed by Fraunhofer UMSICHT and GWI Essen e.V. under Modelica License 2.     //
-// Copyright 2021, Fraunhofer UMSICHT and GWI Essen e.V.                           //
-//_________________________________________________________________________________//
-//                                                                                 //
-// IntegraNet is a research project supported by the German                        //
-// Federal Ministry of Economics and Energy (FKZ 0324027).                         //
-// The IntegraNet Library research team consists of the following project partners://
-// Fraunhofer Institute for Environmental, Safety and Energy Technology UMSICHT,   //
-// Gas- und Wärme-Institut Essen e.V.                                              //
-// and is supported by                                                             //
-// XRG Simulation GmbH (Hamburg, Germany)                                          //
+Licensed by Fraunhofer UMSICHT and GWI Essen e.V. under Modelica License 2.     
+Copyright 2021, Fraunhofer UMSICHT and GWI Essen e.V.                           
+                                                                                 
+IntegraNet is a research project supported by the German                        
+Federal Ministry of Economics and Energy (FKZ 0324027).                         
+The IntegraNet Library research team consists of the following project partners:
+Fraunhofer Institute for Environmental, Safety and Energy Technology UMSICHT,   
+Gas- und Wärme-Institut Essen e.V.                                              
+and is supported by XRG Simulation GmbH (Hamburg, Germany)                                          
 
 ___
 ### UMSICHT
 **Project-Lead:** ...
 
-**Stellv. Projektleitung:** ...
-
 ___
 ### GWI
 
 **Project-Lead:** ...
-
-**Stellv. Projektleitung:** ...
 
 ___
 ### Project
@@ -59,8 +53,9 @@ Alternatively you can load the IntegraNet library manually after loading the Tra
 
 
 
-Contact:	
+
 *******************************************
-  info@integranet.energy
+Contact:	
+info@integranet.energy
 
   
