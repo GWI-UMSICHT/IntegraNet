@@ -1,4 +1,4 @@
-## IntegraNet 
+## IntegraNet Library, version 1.0.0
 
 Licensed by Fraunhofer UMSICHT and GWI Essen e.V. under Modelica License 2.     
 Copyright 2021, Fraunhofer UMSICHT and GWI Essen e.V.                           
@@ -24,8 +24,8 @@ ___
 
 **Dependencies:**
 The Integranet library uses components from the following Modelica libraries:
-* TransiEnt 1.0.0
-* ClaRa 1.2.1
+* TransiEnt 1.3.0
+* ClaRa 1.5.0
 * TILMedia
 
 **Development environment:** Dymola
