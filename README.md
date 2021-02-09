@@ -6,21 +6,13 @@ Copyright 2021, Fraunhofer UMSICHT and GWI Essen e.V.
 IntegraNet is a research project supported by the German                        
 Federal Ministry of Economics and Energy (FKZ 0324027).                         
 The IntegraNet Library research team consists of the following project partners:
+
 Fraunhofer Institute for Environmental, Safety and Energy Technology UMSICHT,   
 Gas- und Wärme-Institut Essen e.V.                                              
 and is supported by XRG Simulation GmbH (Hamburg, Germany)                                          
 
 ___
-### UMSICHT
-**Project-Lead:** ...
-
-___
-### GWI
-
-**Project-Lead:** ...
-
-___
-### Project
+### Instructions and further info
 
 **Dependencies:**
 The Integranet library uses components from the following Modelica libraries:
@@ -37,13 +29,13 @@ Many models of the IntegraNet library build on models from the TransiEnt Library
 
 
 1. Copy the unzipped library files to your preferred folder
-----------------------------------------
+
 Currently, only DYMOLA provides full suppport of IntegraNet. The development team has tested all models carefully using DYMOLA 2019 FD01 and DYMOLA 2020x.
 
 
 
 2. Open the Library
-----------------------------------------
+
 The TransiEnt library needs to be loaded via the mos script loadTransiEnt.mos which is provided with the TransiEnt download. 
 Set the paths as described in the TransiEnt readme and add the following line to the script to open the IntegraNet library along with the TransiEnt library:
 
@@ -51,11 +43,15 @@ openModel("YOURPATH\IntegraNet\package.mo", changeDirectory=false);
 
 Alternatively you can load the IntegraNet library manually after loading the TransiEnt library (in DYMOLA via File → Open and File → Load, respectively).
 
-
+### Citing IntegraNet
+- J. Benthin, A. Hagemeier, A. Heyer, P. Huismann, J. Krassowski, C. Settgast, B. Wortmann, K. Görner (2020): Integrierte Betrachtung von Strom-, Gas- und Wärmesystemen zur modellbasierten Optimierung des Energieausgleichs- und Transportbedarfs innerhalb der deutschen Energienetze. Gemeinsamer Abschlussbericht des Forschungsvorhabens IntegraNet.
 
 
 *******************************************
 Contact:	
 info@integranet.energy
+
+Project Website:
+https://integranet.energy/
 
   
